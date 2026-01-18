@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-01-18 17:57",
+  "update_time": "2026-01-18 18:00",
   "repos": [
     {
       "name": "superpowers",
@@ -11,7 +11,7 @@
       "problem_solved": "构建自主决策的 AI 智能体",
       "language": "Shell",
       "stars_today": 1422,
-      "total_stars": 27863,
+      "total_stars": 27865,
       "forks": 2079,
       "url": "https://github.com/obra/superpowers",
       "owner": "obra",
@@ -23,7 +23,7 @@
       "homepage": "",
       "license": "MIT",
       "open_issues": 76,
-      "watchers": 27864
+      "watchers": 27865
     },
     {
       "name": "AionUi",
@@ -35,7 +35,7 @@
       "problem_solved": "快速上手 AI 相关开发",
       "language": "TypeScript",
       "stars_today": 605,
-      "total_stars": 5137,
+      "total_stars": 5140,
       "forks": 403,
       "url": "https://github.com/iOfficeAI/AionUi",
       "owner": "iOfficeAI",
@@ -53,7 +53,7 @@
       "homepage": "https://www.aionui.com",
       "license": "Apache-2.0",
       "open_issues": 24,
-      "watchers": 5137
+      "watchers": 5140
     },
     {
       "name": "langextract",
@@ -95,7 +95,7 @@
       "problem_solved": "快速上手 AI 相关开发",
       "language": "TypeScript",
       "stars_today": 336,
-      "total_stars": 11515,
+      "total_stars": 11516,
       "forks": 793,
       "url": "https://github.com/puckeditor/puck",
       "owner": "puckeditor",
@@ -107,7 +107,7 @@
       "homepage": "https://puckeditor.com",
       "license": "MIT",
       "open_issues": 179,
-      "watchers": 11515
+      "watchers": 11516
     }
   ]
 }
