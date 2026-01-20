@@ -1,18 +1,18 @@
 {
-  "update_time": "2026-01-20 00:39",
+  "update_time": "2026-01-20 12:01",
   "repos": [
     {
       "name": "AionUi",
       "name_cn": "AionUi",
       "description_original": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
-      "description_cn": "一款基于 TypeScript 开发的 AI 命令行工具，今日新增 1179 星，今日热度爆棚",
+      "description_cn": "一款基于 TypeScript 开发的 AI 命令行工具，今日新增 1192 星，今日热度爆棚",
       "domain": "命令行工具",
       "target_audience": "AI 开发者和研究人员",
       "problem_solved": "快速上手 AI 相关开发",
       "language": "TypeScript",
-      "stars_today": 1179,
-      "total_stars": 6598,
-      "forks": 513,
+      "stars_today": 1192,
+      "total_stars": 6979,
+      "forks": 530,
       "url": "https://github.com/iOfficeAI/AionUi",
       "owner": "iOfficeAI",
       "avatar_url": "https://github.com/iOfficeAI.png?size=80",
@@ -25,11 +25,11 @@
       ],
       "readme_excerpt": "✨ What Can AionUi Do? · 🤔 Why Choose AionUi? · ✨ Core Features · 🚀 Quick Start · 📖 Detailed Usage Guide · 💬 Community _AionUi includes Gemini CLI built-in, ready to use out of the box with no extra installation. If you already have command-line tools like Gemini CLI, Claude Code, CodeX, Qwen Code,...",
       "created_at": "2025-08-07",
-      "updated_at": "2026-01-19",
+      "updated_at": "2026-01-20",
       "homepage": "https://www.aionui.com",
       "license": "Apache-2.0",
       "open_issues": 23,
-      "watchers": 6598
+      "watchers": 6979
     },
     {
       "name": "langextract",
@@ -40,9 +40,9 @@
       "target_audience": "NLP 开发者、对话系统研发人员",
       "problem_solved": "快速接入和使用大语言模型",
       "language": "Python",
-      "stars_today": 621,
-      "total_stars": 22540,
-      "forks": 1555,
+      "stars_today": 652,
+      "total_stars": 22776,
+      "forks": 1570,
       "url": "https://github.com/google/langextract",
       "owner": "google",
       "avatar_url": "https://github.com/google.png?size=80",
@@ -55,11 +55,11 @@
       ],
       "readme_excerpt": "- Introduction - Why LangExtract? - Quick Start - Installation - API Key Setup for Cloud Models - Adding Custom Model Providers - Using OpenAI Models - Using Local LLMs with Ollama - More Examples - Romeo and Juliet Full Text Extraction - Medication Extraction - Radiology Report Structuring:...",
       "created_at": "2025-07-08",
-      "updated_at": "2026-01-19",
+      "updated_at": "2026-01-20",
       "homepage": "https://pypi.org/project/langextract/",
       "license": "Apache-2.0",
       "open_issues": 95,
-      "watchers": 22540
+      "watchers": 22776
     },
     {
       "name": "LEANN",
@@ -70,9 +70,9 @@
       "target_audience": "AI 开发者和研究人员",
       "problem_solved": "快速上手 AI 相关开发",
       "language": "Python",
-      "stars_today": 372,
-      "total_stars": 9224,
-      "forks": 800,
+      "stars_today": 374,
+      "total_stars": 9360,
+      "forks": 807,
       "url": "https://github.com/yichuan-w/LEANN",
       "owner": "yichuan-w",
       "avatar_url": "https://github.com/yichuan-w.png?size=80",
@@ -85,11 +85,11 @@
       ],
       "readme_excerpt": "We track <b>zero telemetry</b>. This survey is the ONLY way to tell us if you want <br> 👉 <a href=\"https://forms.gle/rDbZf864gMNxhpTq8\"><b>Click here to cast your vote (2 mins)</b></a> The smallest vector index in the world. RAG Everything with LEANN! LEANN is an innovative vector database that...",
       "created_at": "2025-06-09",
-      "updated_at": "2026-01-19",
+      "updated_at": "2026-01-20",
       "homepage": "",
       "license": "MIT",
-      "open_issues": 44,
-      "watchers": 9224
+      "open_issues": 45,
+      "watchers": 9360
     }
   ]
 }
